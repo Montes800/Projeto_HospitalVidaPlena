@@ -2,7 +2,7 @@
 Este projeto foi desenvolvido durante o curso de Ciência de Dados aplicada à gestão hospitalar. O objetivo principal foi analisar a ocupação de leitos, o perfil dos pacientes e a eficiência operacional do Hospital Vida Plena, utilizando uma abordagem multiferramentas para o tratamento e visualização de dados.
 
 
-#📌 Objetivos do Projeto
+# 📌 Objetivos do Projeto
 
 Monitorar a taxa de ocupação hospitalar em tempo real.
 
@@ -12,7 +12,7 @@ Identificar gargalos operacionais (leitos em manutenção ou limpeza).
 
 Prover insights para tomadas de decisão estratégicas e alocação de recursos.
 
-#🛠️ Tecnologias e Ferramentas Utilizadas
+# 🛠️ Tecnologias e Ferramentas Utilizadas
 
 1. Microsoft Excel & Power Query
 Importação e Extração: Consolidação de bases de dados (Pacientes, Leitos e Movimentação).
@@ -43,7 +43,7 @@ Taxa de Ocupação % (considerando apenas leitos operacionais).
 
 Dashboard Interativo: Desenvolvimento de painéis visuais com filtros de segmentação de dados, gráficos de picos históricos e indicadores de performance (KPIs).
 
-#📊 Insights Gerados
+# 📊 Insights Gerados
 
 Perfil de Internação: Identificou-se que a UTI possui um índice de ocupação crítico, especialmente para pacientes da "Melhor Idade" e "Menor de Idade".
 
